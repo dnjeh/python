@@ -74,3 +74,7 @@ print(y, m, d, sep=" . ")
 
 age=input("몇 살이세요? ")
 print(age + age)
+
+age=input("몇 살이세요? ")
+age=int(age)
+print(age + age)
