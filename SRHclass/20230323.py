@@ -150,3 +150,7 @@ if b>40:
 else:
   print(a, "님의 주급은", b*12000, "입니다.")
 
+print((3==3) and (4!=3))
+print((3==3) or (4!=3))
+print(not (4!=3))
+
